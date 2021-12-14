@@ -1,5 +1,12 @@
 # Curso Alura - Symfony Api
 
+## Link do curso
+https://cursos.alura.com.br/course/php-symfony-api-restful
+
+## Certificado de conclusão
+https://cursos.alura.com.br/certificate/josemauromani/php-symfony-api-restful
+
+
 ## Tópicos abordados: 
 
 ### Começando com Symfony
